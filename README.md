@@ -1,6 +1,8 @@
 
 # The lost memory game 
 
+![First round](resources/cover.jpg)
+
 This is a cooperative riddle game that can be played with larger groups. The game is designed to be played in a cooperative manner, therefore it serves well as a communication and light team-building game.
 
 - **Ideal group size:** 8-30 (split in 4 groups)
@@ -41,7 +43,7 @@ The game can be played with a CJO team or larget committees, but could also, wit
 
 # Solution
 
-The solution can be found [here](solution.md).
+The backstory and the solution can be found [here](solution.md).
 
 # Feedback
 
