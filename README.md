@@ -34,7 +34,7 @@ The goal of the group is to find the solution of the game, which is the combinat
 
 The game can be played with a CJO team or larget committees, but could also, with minor adjustments, played with several committees competitively or cooperatively. Enough time and flexibility is highly recommended to guarantee a pleasant playing experience.
 
-# Character’s stories
+# Characters’ stories
 
 - [Evelin](characters/evelin.md)
 - [Jaakko](characters/jaakko.md)
